@@ -1,17 +1,17 @@
 .body {
   display: flex;
   flex-grow: 1;
-  background: pink;
+  background: $dark;
   height: 100vh;
   .main {
-    background: lightblue;
+    background: $light;
     flex-grow: 1;
   }
   .nav-1 {
     order: -1;
-    width: 220px;
+    width: 180px;
   }
   .nav-2 {
-    width: 220px;
+    width: 180px;
   }
 }
