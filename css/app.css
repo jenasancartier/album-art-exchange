@@ -111,9 +111,13 @@ header {
 
 .flex-header button {
   background: #fc3000; }
+  .flex-header button:hover {
+    color: #2C363C; }
 .flex-header button:nth-of-type(1), .flex-header button:nth-of-type(2) {
   background: white;
   color: #2C363C; }
+  .flex-header button:nth-of-type(1):hover, .flex-header button:nth-of-type(2):hover {
+    color: #fc3000; }
 
 .nav-block button {
   border: 1px solid #2C363C;
