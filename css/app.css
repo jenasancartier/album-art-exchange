@@ -1,3 +1,12 @@
+.flex-header button, .nav-block button {
+  margin: 8px;
+  border-radius: 30px;
+  border: none;
+  width: 100px;
+  font-weight: bold;
+  color: white;
+  padding: 1em; }
+
 body {
   -webkit-font-smoothing: antialiased; }
 
@@ -68,16 +77,17 @@ header {
     border: none; }
 
 .flex-header button {
-  margin: 8px;
-  border-radius: 30px;
-  border: none;
-  width: 100px;
-  font-weight: bold;
-  color: white;
-  background: #fc3000;
-  padding: 1em; }
+  background: #fc3000; }
 .flex-header button:nth-of-type(1), .flex-header button:nth-of-type(2) {
   background: white;
   color: #2C363C; }
+
+.nav-block button {
+  border: 1px solid #2C363C;
+  color: #2C363C;
+  background: white; }
+  .nav-block button:hover {
+    background: #2C363C;
+    color: white; }
 
 /*# sourceMappingURL=app.css.map */
