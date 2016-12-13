@@ -1,3 +1,31 @@
+body {
+  -webkit-font-smoothing: antialiased; }
 
+header {
+  background: #2C363C; }
+
+.flex-header {
+  display: flex;
+  width: 980px;
+  padding: 15px;
+  margin: 0 auto;
+  border-bottom: #37434b;
+  justify-content: space-between;
+  align-items: center; }
+  .flex-header ul {
+    display: flex;
+    list-style: none; }
+  .flex-header li {
+    padding: 10px;
+    color: white; }
+  .flex-header button {
+    margin: 8px;
+    border-radius: 30px;
+    border: none;
+    padding: 5px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    background: #fc3000; }
 
 /*# sourceMappingURL=app.css.map */
