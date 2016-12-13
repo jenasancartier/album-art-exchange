@@ -34,7 +34,7 @@ header {
 .search-block {
   display: flex;
   justify-content: center;
-  background: $dark;
+  background: $gray;
   border-bottom: 0.5px solid lighten($dark, 10%);
   padding: 1.5em;
   input {
