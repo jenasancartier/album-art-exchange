@@ -1,5 +1,6 @@
 .main {
   display: flex;
+  flex-grow: 1;
   flex-wrap: wrap;
   justify-content: center;
   align-content: flex-start;
@@ -7,8 +8,8 @@
 
 .album {
   display: flex;
-  height: 200px;
-  width: 200px;
+  height: 280px;
+  width: 280px;
   background: pink;
   border: 1px solid black;
   margin: 10px;

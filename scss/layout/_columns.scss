@@ -6,21 +6,7 @@
   .main {
     background: $light;
   }
-  .nav-1 {
-    order: -1;
-    min-width: 180px;
-  }
-  .nav-2 {
-    min-width: 180px;
-  }
   @media (max-width: 980px) {
     flex-direction: column;
-    .nav-1, .nav-2 {
-      width: auto;
-      height: 180px;
     }
-    .nav-1 {
-      order: 0;
-    }
-  }
 }
