@@ -11,6 +11,46 @@
   height: 280px;
   width: 280px;
   background: pink;
-  border: 1px solid black;
+  // border: 1px solid black;
   margin: 10px;
+}
+
+.one {
+  background-image: url(../img/neutral-milk.jpg);
+  background-size: contain;
+}
+
+.two {
+  background-image: url(../img/iron-wine.jpg);
+  background-size: contain;
+}
+
+.three {
+  background-image: url(../img/bob-dylan.jpg);
+  background-size: contain;
+}
+
+.four {
+  background-image: url(../img/glass-animals.jpg);
+  background-size: contain;
+}
+
+.five {
+  background-image: url(../img/cocorosie.jpg);
+  background-size: contain;
+}
+
+.six {
+  background-image: url(../img/santigold.jpg);
+  background-size: contain;
+}
+
+.seven {
+  background-image: url(../img/toro.jpg);
+  background-size: contain;
+}
+
+.eight {
+  background-image: url(../img/smiths.jpg);
+  background-size: contain;
 }
