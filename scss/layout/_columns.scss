@@ -1,0 +1,17 @@
+.body {
+  display: flex;
+  flex-grow: 1;
+  background: pink;
+  height: 100vh;
+  .main {
+    background: lightblue;
+    flex-grow: 1;
+  }
+  .nav-1 {
+    order: -1;
+    width: 220px;
+  }
+  .nav-2 {
+    width: 220px;
+  }
+}
