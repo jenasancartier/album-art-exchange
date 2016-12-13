@@ -5,7 +5,7 @@ __Version 1: December 13, 2016__
 ## by [J'ena SanCartier](https://github.com/jenasancartier)
 
 ### Description
-A super responsive redesign of the [Album Art Exchange website](/img/albumpage.png) landing page using flexbox.
+A super responsive redesign of the [Album Art Exchange website](/img/albumpage.png) landing page using flexbox and Sass.
 
 
 ### Setup/Installation
