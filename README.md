@@ -1,4 +1,4 @@
-# [Quiz Page](https://jenasancartier.github.io/album-art-exchange/)
+# [Album Art Exchange](https://jenasancartier.github.io/album-art-exchange/)
 ![project screenshot](/img/screenshot.png)
 
 __Version 1: December 13, 2016__
